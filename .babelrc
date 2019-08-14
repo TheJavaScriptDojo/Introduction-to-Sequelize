@@ -1,12 +1,13 @@
 {
     "presets": [
       [
-        "env", {
+        "env", 
+        {
           "targets": {
             "node": "current"
           }
         }
       ]
     ],
-    "plugins": ["transform-object-rest-spread", "transform-class-properties"]
+    "plugins": ["transform-object-rest-spread", "transform-class-properties", "add-module-exports"]
   }
