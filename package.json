@@ -42,8 +42,8 @@
   "homepage": "https://github.com/TheJavaScriptDojo/Introduction-to-Sequelize#readme",
   "dependencies": {
     "babel-plugin-add-module-exports": "^1.0.0",
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "helmet": "^3.15.0",
     "pg": "^7.8.0",
     "pg-hstore": "^2.3.2",
